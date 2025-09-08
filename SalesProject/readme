@@ -1,0 +1,24 @@
+
+### 📄 `sales-analysis-powerbi/README.md`
+```markdown
+# 📈 Sales Analysis using Power BI
+
+**Duration:** May’25 – Jul’25  
+**Type:** Self Project  
+
+## 🎯 Objective
+- Created an interactive **Power BI dashboard** to track sales performance, revenue, and trends.  
+- Streamlined **business intelligence reporting** to support **data-driven decisions** and revenue optimization.
+
+## 🧩 Approach
+- Cleaned, merged, and modeled datasets in Power BI.  
+- Implemented **SQL queries** for dynamic filtering, joins, and KPI calculations.  
+- Built dashboards for **operational visibility** and executive reporting.
+
+## 📊 Results
+- Enhanced reporting efficiency and enabled faster identification of growth trends.  
+- Delivered actionable insights, reducing analysis time and improving decision-making.
+
+## 🛠️ Tech Stack
+- **Tools:** Power BI, SQL  
+- **Skills:** Data Cleaning, Visualization, KPI Dashboarding, BI Automation
