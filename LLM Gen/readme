@@ -1,0 +1,23 @@
+### 📄 `auto-slide-deck-generator/README.md`
+```markdown
+# 🖥️ Auto Slide Deck Generator
+
+**Duration:** Dec’24  
+**Type:** Self Project  
+
+## 🎯 Objective
+- Built an **automated CLI tool** to generate **10–15 slide presentations** in under 1 minute.  
+- Used LLM orchestration and web search to generate structured slide content.
+
+## 🧩 Approach
+- Integrated **DuckDuckGo + SerpAPI** search, **Groq LLM**, and JSON parsing for slide creation.  
+- Implemented **SQLite caching**, validation tools, and fallback heuristics to reduce API calls and ensure slide consistency.
+
+## 📊 Results
+- Achieved **90%+ slide consistency** and cut redundant API calls by **60%**.  
+- Delivered a highly configurable CLI-based slide deck generator.
+
+## 🛠️ Tech Stack
+- **Languages:** Python  
+- **Libraries:** SQLite, JSON, SerpAPI, Groq LLM  
+- **Tools:** CLI, Automation Scripts  
